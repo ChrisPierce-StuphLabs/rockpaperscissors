@@ -1,0 +1,19 @@
+//03/26/2015
+//hour 1
+
+	block level elements vs inline level elements. 
+block covers all of the horizon, div for instance, will push stuff below and above it
+inline level elements allows you to tag and style content, a href="" for instance. images should be inline level elements.  
+floating it to the left, for a div. it disrupts the horizontal breaking effect.
+need a clear fix. <div style="clear:both;">  //both can be substituted for right, or left
+nav and div are used for similar things, nav is used for html5.
+<form action="#">  //means this page
+<lable id=""> is used for uniquely idintifying stuff for css.
+
+<input type="checkbox">
+
+
+//hour 2
+
+	javascript will let you change the type of the variable. varibles can hold any type in it. an expression evaluates to something. statements don't evaluate to something. statements dont have a result, it's used for something else. like an if statement. expressions dont need semicolons, statements usually do need semicolons. there are apparently no constants in javascript... wtf?? table,-> tr,-> td.     
+javascript is lazily evaluated.
